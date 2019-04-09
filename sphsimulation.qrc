@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/SPHSimulation">
+        <file>Shaders/simple.vert</file>
+        <file>Shaders/simple.frag</file>
+    </qresource>
+</RCC>
